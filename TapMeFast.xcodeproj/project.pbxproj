@@ -14,6 +14,7 @@
 		B3CF04491FECA60B00247C70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3CF04471FECA60B00247C70 /* LaunchScreen.storyboard */; };
 		B3CF04541FECA60B00247C70 /* TapMeFastTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3CF04531FECA60B00247C70 /* TapMeFastTests.swift */; };
 		B3CF045F1FECA60B00247C70 /* TapMeFastUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3CF045E1FECA60B00247C70 /* TapMeFastUITests.swift */; };
+		B3CF046E1FECB28E00247C70 /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = B3CF046C1FECA7F400247C70 /* PORKYS_.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B3CF045A1FECA60B00247C70 /* TapMeFastUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TapMeFastUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3CF045E1FECA60B00247C70 /* TapMeFastUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapMeFastUITests.swift; sourceTree = "<group>"; };
 		B3CF04601FECA60B00247C70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3CF046C1FECA7F400247C70 /* PORKYS_.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = PORKYS_.TTF; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B3CF04451FECA60B00247C70 /* Assets.xcassets */,
 				B3CF04471FECA60B00247C70 /* LaunchScreen.storyboard */,
 				B3CF044A1FECA60B00247C70 /* Info.plist */,
+				B3CF046C1FECA7F400247C70 /* PORKYS_.TTF */,
 			);
 			path = TapMeFast;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3CF046E1FECB28E00247C70 /* PORKYS_.TTF in Resources */,
 				B3CF04491FECA60B00247C70 /* LaunchScreen.storyboard in Resources */,
 				B3CF04461FECA60B00247C70 /* Assets.xcassets in Resources */,
 				B3CF04441FECA60B00247C70 /* Main.storyboard in Resources */,
@@ -427,7 +431,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = NPG3P99SMJ;
+				DEVELOPMENT_TEAM = BQDG9MF992;
 				INFOPLIST_FILE = TapMeFast/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jaimejazarenopersonal.TapMeFast;
@@ -442,7 +446,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = NPG3P99SMJ;
+				DEVELOPMENT_TEAM = BQDG9MF992;
 				INFOPLIST_FILE = TapMeFast/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jaimejazarenopersonal.TapMeFast;
